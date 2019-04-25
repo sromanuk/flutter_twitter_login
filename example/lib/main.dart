@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter_twitter_login/flutter_twitter_login.dart';
+
+import '../../lib/flutter_twitter_login.dart';
+
 
 void main() => runApp(new MyApp());
 
